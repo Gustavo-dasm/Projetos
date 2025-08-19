@@ -6,7 +6,7 @@ Bem vindo aos meus projetos em HTML, CSS e JavaScript!
 
 <a href="https://gustavo-dasm.github.io/Projetos/projetocontador/Contador.html" target="_blank"> Contador de números! </a>
 
-<a href="https://gustavo-dasm.github.io/Projetos/projetoanalizadordenumeros/Analizador.html" target="_blank"> Analizador de números! </a>
+<a href="https://gustavo-dasm.github.io/Projetos/projetoanalisadordenumeros/Analisador.html" target="_blank"> Analisador de números! </a>
 
 <a href="https://gustavo-dasm.github.io/Projetos/projetotabuada/tabuada.html" target="_blank"> Gerar Tabuada </a>
 
