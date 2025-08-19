@@ -10,7 +10,7 @@ Bem vindo aos meus projetos em HTML, CSS e JavaScript!
 
 <a href="https://gustavo-dasm.github.io/Projetos/projetotabuada/tabuada.html" target="_blank"> Gerar Tabuada </a>
 
-<a href="https://gustavo-dasm.github.io/Projetos/projetoqualaidade/qualaidade.html" target="_blank"> Analizador de idade! </a>
+<a href="https://gustavo-dasm.github.io/Projetos/projetoqualaidade/qualaidade.html" target="_blank"> Verificador de idade! </a>
 
 <a href="https://gustavo-dasm.github.io/Projetos/projetoquehorassao/horas.html" target="_blank"> Que horas são? </a>
 
