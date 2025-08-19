@@ -78,6 +78,12 @@ article h2 {
     font-size: 1.7em;
 }
 
+article h3 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 1.5em;
+}
+
 ul {
     list-style-position: inside;
     line-height: 2em;
@@ -116,10 +122,25 @@ p.git > a:hover {
     border-radius: 10px;
 }
 
+p.click {
+    text-align: center;
+    font-size: 1em;
+    padding-top: 0px;
+}
 
 article img {
     display: block;
     margin: auto;
+}
+
+img.imglink {
+    border-style: ridge;
+    border-width: 10px;
+    border-color: var(--cor03);
+}
+
+img.imglink:hover {
+    border-color: var(--cor01);
 }
 
 footer {
