@@ -141,6 +141,7 @@ img.imglink {
 
 img.imglink:hover {
     border-color: var(--cor01);
+    border-width: 15px;
 }
 
 footer {
