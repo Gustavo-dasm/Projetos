@@ -97,8 +97,25 @@ p.email {
     text-align: center;
     font-size: 1.5em;
     font-weight: bold;
-
 }
+
+p.git {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p.git > a {
+    text-decoration: none;
+}
+
+p.git > a:hover {
+    background-color: var(--cor03);
+    color: var(--cor01);
+    padding: 15px;
+    border-radius: 10px;
+}
+
 
 article img {
     display: block;
