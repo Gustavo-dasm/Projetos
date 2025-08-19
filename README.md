@@ -1,6 +1,6 @@
 # Projetos Gustavo da Silva Mello
 
-Bem vindo aos meus projetos em HTML, CSS e JavaScript!
+Olá, tudo bem ? estes são os projetos que desenvolvi até o momento estudando HTML5, CSS3 e JavaScript!
 
 <a href="https://gustavo-dasm.github.io/Projetos/projetoquemsoueu/meusite.html" target="_blank"> Quem sou eu ? </a>
 
