@@ -28,15 +28,38 @@ header a:hover {
 }
 
 main p {
-    width: 200px;
+    width: 400px;
+    font-size: 2em;
     margin-top: 50px;
     margin-left: 20px;
+    padding: 30px;
+    line-height: 1.8em;
 }
 
-div {
-    background-color: rgba(0, 0, 0, 0.123);
-    width: 220px;
-    
+main p.transparente {
+    background-color: rgba(0, 0, 0, 0.253);
+    color: white;
+    display: block;
+    position: relative;
+
+
+}
+
+#abelha {
+    height: 700px;
+    background-color: black;
+    background-image: url(imagens/background001.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-position: absolute;
+}
+
+#pagina {
+    height: 700px;
+    background-color: black;
+    background-image: url(imagens/background002.jpg);
+    background-position: bottom right;
+    background-attachment: fixed;
 }
 
 footer {
