@@ -5,68 +5,62 @@
     padding: 0px;
 }
 
+html, body {
+    min-height: 100vh;
+    background-color: darkgray;
+}
+
 header {
     background-color: black;
     color: white;
-    height: 200px;
     text-align: center;
 }
 
 header h1 {
-    padding: 50px 0px 20px 0px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 4em;
+    padding-top: 50px;
+    font-variant: small-caps;
 }
 
-header a {
+header p {
+    padding-bottom: 50px;
+}
+
+a {
     text-decoration: none;
     color: white;
+    font-weight: bolder;
 }
 
-header a:hover {
+a:hover {
     text-decoration: underline;
 }
 
-main p {
-    width: 400px;
-    font-size: 2em;
-    margin-top: 50px;
-    margin-left: 20px;
-    padding: 30px;
-    line-height: 1.8em;
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
 }
 
-main p.transparente {
-    background-color: rgba(0, 0, 0, 0.253);
+section.normal {
+    background-color: white;
+    color: black;
+}
+
+section.imagem {
+    background-color: rgb(77, 76, 76);
     color: white;
-    display: block;
-    position: relative;
-
-
 }
 
-#abelha {
-    height: 700px;
-    background-color: black;
-    background-image: url(imagens/background001.jpg);
-    background-position: center center;
-    background-attachment: fixed;
-    background-position: absolute;
-}
-
-#pagina {
-    height: 700px;
-    background-color: black;
-    background-image: url(imagens/background002.jpg);
-    background-position: bottom right;
-    background-attachment: fixed;
+section.imagem > p {
+    background-color: rgba(0, 0, 0, 0.171);
+    width: 400px;
 }
 
 footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 5px;
-    margin-top: 20px;
+    padding: 10px;
 }
 
