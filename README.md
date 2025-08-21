@@ -14,4 +14,4 @@ Olá, tudo bem ? estes são os projetos que desenvolvi até o momento estudando 
 
 <a href="https://gustavo-dasm.github.io/Projetos/projetoquehorassao/horas.html" target="_blank"> Que horas são? </a>
 
-<a href="https://gustavo-dasm.github.io/Projetos/projetocordel/cordel.html" target="_blank"> Cordel Moderno
+<a href="https://gustavo-dasm.github.io/Projetos/projetocordel/cordel.html" target="_blank"> Cordel Moderno </a>
